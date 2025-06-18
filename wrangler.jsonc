@@ -16,9 +16,9 @@
     ],
     "secrets_store_secrets": [
         {
-            "store_id": "<YOUR-STORE-ID>",
+            "store_id": "b014a286c8b24b7dbdb5b90f4cf6a48f",
             "binding": "SECRET",
-            "secret_name": "<YOUR-SECRET-NAME>"
+            "secret_name": "d1-test"
         }
     ],
 	"observability": {
